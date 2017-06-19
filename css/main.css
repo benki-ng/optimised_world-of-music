@@ -16,6 +16,11 @@
   padding-right: 8%;
 }
 
+.site-description {
+  background-color: #424242;
+  margin-bottom: 0px;
+}
+
 .journeydiv {
   background-color: grey;
   height: 40%;
